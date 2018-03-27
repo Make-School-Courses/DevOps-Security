@@ -1,0 +1,17 @@
+
+# Class 11: Man-In-The-Middle Attack
+
+## Activities
+  - Study basics on how HTTP(S) works
+  - Study about RSA and public/private key algorithms
+  - Study web tokens (JWT)
+  - Read about MITM Attack
+
+## Objectives
+  - Understand the MITM Attack
+  - Grasp on token and information transfer protocols
+  - Learn how to protect communications / data transfer
+  - Learn about authentication
+
+## Challenge
+  - Study famous cases of Man-In-The-Middle Attack, DNS Spoofing
