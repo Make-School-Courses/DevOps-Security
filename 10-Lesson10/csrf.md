@@ -2,9 +2,10 @@
 # Class 10: CSRF Attack
 
 ## Activities
-  - Read about Cross-site request forgery and techniques
-  - Attack other's site or app using CSRF attack
-  - Defend you site by using techniques to prevent CSRF attack
+  - Question: What is a Request? What is Request Forgery?
+  - Pair and present:
+    - Read about Cross-site request forgery and techniques
+    - Ways to prevent CSRF attack
 
 ## Objectives
   - Study this attack

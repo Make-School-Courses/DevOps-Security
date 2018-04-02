@@ -2,14 +2,17 @@
 # Class 8: Cross-site scripting
 
 ## Activities
-  - Read about XSS
-  - Attack other's site or app using XSS
-  - Defend you site using techniques to block XSS
+  - Do you know what is XSS?
+    - Pair and research about it
+  - Scan you app on Internet to check if there is a XSS vulnerability
+  - Research ways to defend your site/app by blocking XSS
+  - Research about CORS: what it is, how to use it?
 
 ## Objectives
-  - Learn XSS
+  - Learn about XSS
   - Discover how XSS attacks works
   - Discover ways to mitigate XSS attacks
+  - Learn about CORS
 
 ## Challenge
-  - Find other similar vulnerabilities in OWASP
+  - Read about other similar vulnerabilities in OWASP

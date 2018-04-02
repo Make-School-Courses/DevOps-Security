@@ -2,9 +2,9 @@
 # Class 9: SQL Injection
 
 ## Activities
-  - Read about SQL Injection
+  - Group activity: read about SQL Injection and discuss
   - Attack other's site or app using SQL injection
-  - Defend you site by using techniques to prevent SQL injection
+  - Patch the site/app to prevent SQL injection
 
 ## Objectives
   - Study SQL Injection

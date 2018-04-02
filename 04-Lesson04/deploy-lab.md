@@ -3,6 +3,10 @@
 
 ## Activities
   - Deploy on Heroku or other similar services (WeDeploy, Zeit, etc)
+    - Deploy an app (I do, we do) - App is ready
+    - What webpacks you need to deploy that app + DB
+    - Configure that app with addons needs + webpacks
+  - Pair and discuss how secure is an app or site deployed to Heroku
 
 ## Objectives
   - Deploy working static page or small app

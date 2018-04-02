@@ -2,9 +2,11 @@
 # Class 15: Social Engineering - attacks and defenses
 
 ## Activities
-  - What is Social engineering
-  - Read about Social engineering attacks
-  - Study how they can be prevented
+  - Question: What is Social engineering?
+  - Pair and share:
+    - Read about Social engineering attacks
+    - Read about how they can be prevented
+    - Present
 
 ## Objectives
   - Understand what is this technique
