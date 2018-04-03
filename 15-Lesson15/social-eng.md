@@ -7,6 +7,7 @@
     - Read about Social engineering attacks
     - Read about how they can be prevented
     - Present
+  - Final discussion about it
 
 ## Objectives
   - Understand what is this technique
@@ -16,8 +17,7 @@
 ## Challenge
   - Read about the famous case of Kevin Mitnick and how he explored this decades ago
 
-
-## Resources 
-
+## Resources
+  - 
 
 ## Notes
