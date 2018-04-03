@@ -15,3 +15,8 @@
 
 ## Challenge
   - Study famous cases of Man-In-The-Middle Attack, DNS Spoofing
+
+## Resources
+  - https://en.wikipedia.org/wiki/Man-in-the-middle_attack
+  - https://www.incapsula.com/web-application-security/man-in-the-middle-mitm.html
+  - https://www.veracode.com/security/man-middle-attack

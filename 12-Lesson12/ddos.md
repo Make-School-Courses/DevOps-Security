@@ -13,3 +13,9 @@
 
 ## Challenge
   - Study what are honeypots and how they work
+
+## Resources
+  - https://en.wikipedia.org/wiki/Denial-of-service_attack
+  - https://www.incapsula.com/ddos/attack-glossary/dns-amplification.html
+  - https://www.cloudflare.com/learning/ddos/dns-amplification-ddos-attack/
+  - https://blog.cloudflare.com/deep-inside-a-dns-amplification-ddos-attack/

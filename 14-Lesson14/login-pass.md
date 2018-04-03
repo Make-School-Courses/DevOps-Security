@@ -14,10 +14,9 @@
 ## Challenge
   - Add OAuth to your app or site with FB/Google/Twitter
 
-
-## Resources 
-
+## Resources
+  - https://krebsonsecurity.com/password-dos-and-donts/
 
 ## Notes
 
-This could be a lesson and a lab. 
+This could be a lesson and a lab.
