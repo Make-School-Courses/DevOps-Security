@@ -15,3 +15,9 @@
 
 ## Challenge
   - Read about the famous case of Kevin Mitnick and how he explored this decades ago
+
+
+## Resources 
+
+
+## Notes

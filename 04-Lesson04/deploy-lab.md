@@ -15,3 +15,9 @@
 
 ## Challenge
   - Add more functionality to site or app, more interaction with user (inputs, state, buttons, etc)
+
+## Notes
+
+This class be just a lab where students get their AWS project up and running on AWS? 
+This might be a good break from the lecture clsases 1-3. It would also give 
+students a chance to work. 

@@ -13,3 +13,11 @@
 
 ## Challenge
   - Add OAuth to your app or site with FB/Google/Twitter
+
+
+## Resources 
+
+
+## Notes
+
+This could be a lesson and a lab. 

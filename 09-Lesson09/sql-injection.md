@@ -13,3 +13,12 @@
 
 ## Challenge
   - Study how popular frameworks deal with SQL injection (focus on one framework / case)
+  - Prevent SQL attacks on the demo site. 
+  - Run an SQL injection attack on one of the demo sites. 
+
+## Resources 
+
+
+## Notes 
+
+- https://www.hacksplaining.com/lessons

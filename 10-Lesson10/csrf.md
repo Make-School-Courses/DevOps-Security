@@ -16,3 +16,9 @@
 ## Challenge
   - Check how Rails handles CSRF
   - Study more about token and authorization vs authentication
+
+## Resources 
+
+
+## Notes
+

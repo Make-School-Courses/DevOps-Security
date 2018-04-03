@@ -3,7 +3,7 @@
 
 ## Activities
   - DNS Attacks
-    - I do, we do (related to DNS attacks)
+    - I do, we do (related to DNS attacks) ... Need to define this
   - Discussion about data-leaks and implications (pair)
     - Talk about repercussions
   - Look up what data you have public on the Internet
@@ -22,3 +22,14 @@
 
 ## Stretch Challenge
   - Explain how to prevent that attack from happening
+
+## Resources 
+
+- https://www.owasp.org/index.php/Main_Page
+
+## Notes 
+
+We might shorten this lesson to just data security. 
+- What data does the internet have 
+- why you need to secure the data you store
+- Best practices. Might be good to talk about best practices for storing data. 

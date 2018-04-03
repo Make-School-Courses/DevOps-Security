@@ -13,3 +13,9 @@
 
 ## Challenge
   - Write blog post on some of the ways to block input attacks and to do proper validations (conside also the UX aspect of it)
+
+## Resources 
+
+
+## Notes
+

@@ -16,3 +16,16 @@
 
 ## Challenge
   - Read about other similar vulnerabilities in OWASP
+
+## Resources 
+
+- https://www.owasp.org/index.php/Cross-site_Scripting_(XSS)
+- https://www.veracode.com/security/xss
+- https://excess-xss.com
+
+## Notes 
+
+- https://stackoverflow.com/questions/9583971/a-simple-example-of-a-cross-site-scripting-attack
+- This site has a really nice example and more material on XSS
+  - https://www.hacksplaining.com/exercises/xss-stored
+  - https://www.hacksplaining.com/lessons

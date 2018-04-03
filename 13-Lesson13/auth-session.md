@@ -13,3 +13,12 @@
 
 ## Challenge
   - Dig deeper into password recovery concept
+
+
+## Resources 
+
+
+## Notes
+
+This could be more than one class session. 
+This could be a lesson and a lab, or possibly two lessons and a lab. 
