@@ -16,11 +16,7 @@
 
 ## Challenge
   - Deploy to AWS EC2 or other similar service
-    steps:
-    1.
-    2.
-    3.
-    4.
+    (follow EC2 docs or search for a EC2 deploy tutorial)
 
 ## Resources
   - [EC2 deploy docs](https://aws.amazon.com/documentation/ec2/)

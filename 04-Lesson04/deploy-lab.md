@@ -6,7 +6,7 @@
     - Deploy an app (I do, we do) - App is ready
     - What webpacks you need to deploy that app + DB
     - Configure that app with addons needs + webpacks
-  - Pair and discuss how secure is an app or site deployed to Heroku
+  - Pair and discuss how secure is an app or site deployed to Heroku (optional, at the end of lab)
 
 ## Objectives
   - Deploy working static page or small app
@@ -18,6 +18,6 @@
 
 ## Notes
 
-This class be just a lab where students get their AWS project up and running on AWS? 
-This might be a good break from the lecture clsases 1-3. It would also give 
-students a chance to work. 
+This class be just a lab where students get their AWS project up and running on AWS?
+This might be a good break from the lecture classes 1-3. It would also give
+students a chance to work.

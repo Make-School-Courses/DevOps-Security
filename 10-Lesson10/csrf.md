@@ -14,11 +14,12 @@
   - Grasp on token and authorization concepts
 
 ## Challenge
-  - Check how Rails handles CSRF
+  - Check how Rails handles CSRF (extra activity)
   - Study more about token and authorization vs authentication
 
-## Resources 
-
+## Resources
+  - https://en.wikipedia.org/wiki/Cross-site_scripting
+  - https://www.owasp.org/index.php/Cross-site_Scripting_(XSS)
 
 ## Notes
-
+  - https://www.hacksplaining.com/exercises/xss-stored

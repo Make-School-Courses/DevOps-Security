@@ -12,10 +12,10 @@
   - Create validations (that don't block user but prevent malicious access)
 
 ## Challenge
-  - Write blog post on some of the ways to block input attacks and to do proper validations (conside also the UX aspect of it)
+  - Write blog post on some of the ways to block input attacks and to do proper validations (consider also the UX aspect of it)
 
-## Resources 
-
+## Resources
+  - …
+  - …
 
 ## Notes
-

@@ -17,19 +17,17 @@
   - Come up with a description that teaches people how to create a strong password following todays guidelines
 
 ## Resources
+  - http://resources.infosecinstitute.com/popular-tools-for-brute-force-attacks/
 
+## Notes
+  - https://codereview.stackexchange.com/questions/68063/brute-force-password-cracker
+  - https://gist.github.com/najlepsiwebdesigner/5023781
+  - https://stackoverflow.com/questions/6715514/javascript-brute-force-into-web-form
+  - http://johannburkard.de/blog/programming/javascript/brute-force-web-password-cracking.html
 
-
-## Notes 
-
-- https://codereview.stackexchange.com/questions/68063/brute-force-password-cracker
-- https://gist.github.com/najlepsiwebdesigner/5023781
-- https://stackoverflow.com/questions/6715514/javascript-brute-force-into-web-form
-- http://johannburkard.de/blog/programming/javascript/brute-force-web-password-cracking.html
-
-Maybe we could use this as an assignment or excersise: 
+Maybe we could use this as an assignment or exercise:
 
 - https://www.hackthissite.org
 - https://www.hackthis.co.uk
 
-This lesson could be expanded into two or three sessions. 
+This lesson could be expanded into two or three sessions.

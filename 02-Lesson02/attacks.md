@@ -8,7 +8,7 @@
     - Talk about repercussions
   - Look up what data you have public on the Internet
   - What is OSWAP
-    - Check top 10 attacks in 2017
+    - Check top 5 or 10 attacks in 2017
 
 ## Objectives
   - Compare and contrast different attacks
@@ -23,13 +23,13 @@
 ## Stretch Challenge
   - Explain how to prevent that attack from happening
 
-## Resources 
+## Resources
+  - https://www.owasp.org/index.php/Main_Page
+  - https://www.hacksplaining.com/lessons
 
-- https://www.owasp.org/index.php/Main_Page
+## Notes
 
-## Notes 
-
-We might shorten this lesson to just data security. 
-- What data does the internet have 
-- why you need to secure the data you store
-- Best practices. Might be good to talk about best practices for storing data. 
+- We might shorten this lesson to just data security.
+  - What data does the internet have
+  - why you need to secure the data you store
+  - Best practices. Might be good to talk about best practices for storing data.
