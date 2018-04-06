@@ -16,8 +16,7 @@
 ## Challenge
   - Add more functionality to site or app, more interaction with user (inputs, state, buttons, etc)
 
-## Notes
-
-This class be just a lab where students get their AWS project up and running on AWS?
-This might be a good break from the lecture classes 1-3. It would also give
-students a chance to work.
+## Resources
+  - [AWS Basics](https://www.inqdo.com/aws-explained-the-basics/?lang=en)
+  - [Deploy AWS](https://aws.amazon.com/getting-started/tutorials/deploy-code-vm/)
+  - [EC2 docs](https://aws.amazon.com/documentation/ec2/)
