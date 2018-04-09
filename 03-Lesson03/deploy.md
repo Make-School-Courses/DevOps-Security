@@ -2,6 +2,8 @@
 # Class 3: Deployment on AWS
 
 ## Activities
+  - Groups present the top 10 attacks of 2017
+
   - Quick chat about cloud
   - Pair and share about AWS services (EC2, S3, lamba, Elastic Beenstalk, Database storage)
     (each group study one of them for 15 min and present)

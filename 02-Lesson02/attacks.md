@@ -19,6 +19,7 @@
 
 ## Challenge
   - Choose one of the top 10 attacks and explain it
+    - In class presentation with 1 or two other students
 
 ## Stretch Challenge
   - Explain how to prevent that attack from happening

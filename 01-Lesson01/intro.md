@@ -24,6 +24,8 @@ Why should we study security?
 
 ## Challenge
   - Research famous historical hack and write blog post
+    - Should be +500 words
+    -
 
 ## Resources
   Some reading about Botnets and honeypots ...

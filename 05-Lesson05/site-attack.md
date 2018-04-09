@@ -31,3 +31,7 @@ Maybe we could use this as an assignment or exercise:
 - https://www.hackthis.co.uk
 
 This lesson could be expanded into two or three sessions.
+
+Lesson idea: Password Meter. Build an app that measures password strength.
+
+- https://github.com/dropbox/zxcvbn
