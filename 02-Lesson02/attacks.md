@@ -18,8 +18,12 @@
   - Understand repercussions related to data privacy
 
 ## Challenge
-  - Choose one of the top 10 attacks and explain it
+  - Choose one of the top 10 2017 attacks and explain it
     - In class presentation with 1 or two other students
+    - Plan to give a 5 min presentation to the class
+    and answer questions after
+    - What was the attack
+    - Who was affected (types of users, businesses, scale)
 
 ## Stretch Challenge
   - Explain how to prevent that attack from happening

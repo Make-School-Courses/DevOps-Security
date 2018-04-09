@@ -24,8 +24,10 @@ Why should we study security?
 
 ## Challenge
   - Research famous historical hack and write blog post
-    - Should be +500 words
-    -
+    - Post to Medium or your own blog
+    - At least 5 to 10 min read
+    - Must include the type of hack: trojan horse, denial of service etc.
+    - 
 
 ## Resources
   Some reading about Botnets and honeypots ...
