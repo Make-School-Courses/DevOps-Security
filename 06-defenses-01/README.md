@@ -15,6 +15,9 @@
   - Create validations (that don't block user but prevent malicious access)
 
 ## Challenge
+  - Create regex Validations on https://regexr.com to be used in a input
+   - Create a regex to validate a field with only A to Z characters (for a username)
+   - Create a basic email regex to assure there `content` + `@` + `content` + `.` + `domain with 2 to 3 chars`
   - Write blog post on some of the ways to block input attacks and to do proper validations (consider also the UX aspect of it)
 
 ## Resources
