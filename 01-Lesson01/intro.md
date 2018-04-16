@@ -18,16 +18,17 @@ Why should we study security?
     - Are they good, bad?
 
 ## Objectives
-  - Identify web security issues
-  - Define security breaches
-  - Describe potential problems in web security
+  - Define the effects of weak web security
+  - Recite famous historical hacks
+    - Define the effects and significance of famous hacks
+  - Identify the domains of web security
 
 ## Challenge
   - Research famous historical hack and write blog post
     - Post to Medium or your own blog
     - At least 5 to 10 min read
     - Must include the type of hack: trojan horse, denial of service etc.
-    - 
+    -
 
 ## Resources
   Some reading about Botnets and honeypots ...

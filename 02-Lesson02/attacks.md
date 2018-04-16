@@ -13,8 +13,7 @@
 ## Objectives
   - Compare and contrast different attacks
      - Identify top 10 security attacks in 2017 (OSWAP)
-     - Learn about those attacks
-     - Identify security measures for them
+     - Assess and compare current attacks
   - Understand repercussions related to data privacy
 
 ## Challenge

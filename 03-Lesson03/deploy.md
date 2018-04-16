@@ -13,6 +13,8 @@
     - Delete this document afterwards (so you don't get billed)
 
 ## Objectives
+  - Analyze current attacks from 2017
+
   - Explain cloud services
   - Deploy code and assets
   - Apply permissions on internet resources
