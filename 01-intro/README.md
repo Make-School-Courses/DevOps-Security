@@ -16,6 +16,42 @@ Why should we study security?
     - What are them?
     - What are they used for?
     - Are they good, bad?
+    
+  - Discussion 
+    - Two models of web security: AAA and CIA
+      - Research and discuss
+  
+    - Confidentiality
+      - Who can see your data
+    - Integrity
+      - Who can edit or change your data
+    - Availability
+      - Who and where your data can be accessed
+    
+    - Authentication 
+      - requires proof: Knowledge, hardware, biometric
+        - multifactor authentication: Two Factor Authentication
+          - Are there any problem with two factor authentication? 
+    - Authorization 
+      - Based on credentials you get privilege
+        - principal of least privilege
+    - Accounting 
+      - Give some examples of accounting...
+      
+    - Name some issues with security 
+      
+    - Threats Actors can be anything
+      - Assets 
+        - Hardware
+        - Software
+        - Data
+        - Trade Secrets
+        - Personal Info
+    - Vulnerability
+      - Threat actors exploit vulnerability
+    - Risk the probablity of a loss
+    
+    Name the exploit, threat actor, and ...
 
 ## Objectives
   - Define the effects of weak web security
@@ -28,7 +64,8 @@ Why should we study security?
     - Post to Medium or your own blog
     - At least 5 to 10 min read
     - Must include the type of hack: trojan horse, denial of service etc.
-    -
+    Discuss the AAA and CIA security models and how can your chosen hack 
+    be described with these models? 
 
 ## Resources
   Some reading about Botnets and honeypots ...
