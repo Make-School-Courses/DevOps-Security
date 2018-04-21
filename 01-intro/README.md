@@ -61,6 +61,9 @@ Why should we study security?
     - Must include:
       - type of hack: trojan horse, denial of service etc.
       - Identify and discuss the hack interms of the security models CIA/AAA 
+## Stretch Challenge 
+  - Present your article in class
+    - Use your article as the basis for a 5 minute presentation.
 
 ## Resources
   Some reading about Botnets and honeypots ...
@@ -75,5 +78,5 @@ Why should we study security?
 | 10mins | 20 | Pair and share | What is the most common security issue? |
 | 10mins | 30 | Slides         | CIA/AAA security models |
 | 10mins | 40 | Vocabulary     | Research security vocabulary |
-| 10mins | 50 | Discuss vocab  | |
-| 10mins | 60 | Homework       | |
+| 10mins | 50 | Discuss vocab  | class discussion/presentation |
+| 10mins | 60 | Homework       | Q&A about the assignment |
