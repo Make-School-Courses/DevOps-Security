@@ -12,7 +12,7 @@ Why should we study security?
   - Question: what do you understand about web security?
   - Pair up with another student and research web security problems:
     - What is the most common security issue?
-  - Discussion/slides
+  - Discussion/[slides](https://docs.google.com/presentation/d/1gUhRMPlXeiwloMxedW_Kr2V0pxjdm19hA5IV7p6QE-M/edit?usp=sharing) 
     - Two models of web security: AAA and CIA
       - CIA/AIC
         - Confidentiality
