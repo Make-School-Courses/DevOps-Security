@@ -57,20 +57,24 @@ Why should we study security?
 ## Challenge
   - Research famous historical hack and write blog post
     - Post to Medium or your own blog
-    - At least 5 to 10 min read
+    - At least 5 to 10 min read (500 - 1000 words)
     - Must include:
       - type of hack: trojan horse, denial of service etc.
-      - Identify and discuss the hack interms of the security models CIA/AAA 
+      - Identify and discuss the hack interms of the security models CIA/AAA
 ## Stretch Challenge 
   - Present your article in class
     - Use your article as the basis for a 5 minute presentation.
+  - Include pictures in your article
 
 ## Resources
-  Some reading about Botnets and honeypots ...
-  - https://en.wikipedia.org/wiki/Botnet
-  - https://us.norton.com/internetsecurity-malware-what-is-a-botnet.html
-  - https://en.wikipedia.org/wiki/Honeypot_(computing)
-  - https://www.sans.edu/cyber-research/security-laboratory/article/honeypots-guide
+  
+- Famous and historical hacks 
+  - https://www.lifewire.com/the-greatest-computer-hacks-4060530
+  - https://www.csoonline.com/article/2131745/social-engineering/10-hacks-that-made-headlines.html
+- Security Models 
+  - https://whatis.techtarget.com/definition/Confidentiality-integrity-and-availability-CIA
+  - https://www.techopedia.com/definition/24130/authentication-authorization-and-accounting-aaa
+
   
 |Time    |    | Activity       | Subject |
 |--------|----|----------------|-------|
