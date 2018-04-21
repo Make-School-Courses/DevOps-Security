@@ -12,49 +12,44 @@ Why should we study security?
   - Question: what do you understand about web security?
   - Pair up with another student and research web security problems:
     - What is the most common security issue?
-  - Talk about botnets and honey pots
-    - What are them?
-    - What are they used for?
-    - Are they good, bad?
-    
-  - Discussion 
+  - Discussion/slides
     - Two models of web security: AAA and CIA
-      - Research and discuss
-  
-    - Confidentiality
-      - Who can see your data
-    - Integrity
-      - Who can edit or change your data
-    - Availability
-      - Who and where your data can be accessed
-    
-    - Authentication 
-      - requires proof: Knowledge, hardware, biometric
-        - multifactor authentication: Two Factor Authentication
+      - CIA/AIC
+        - Confidentiality
+          - Who can see your data
+        - Integrity
+          - Who can edit or change your data
+        - Availability
+          - Who and where your data can be accessed
+      - AAA
+        - Authentication 
+          - requires proof: Knowledge, hardware, biometric
+          - multifactor authentication: Two Factor Authentication
           - Are there any problem with two factor authentication? 
-    - Authorization 
-      - Based on credentials you get privilege
-        - principal of least privilege
-    - Accounting 
-      - Give some examples of accounting...
-      
-    - Name some issues with security 
-      
-    - Threats Actors can be anything
-      - Assets 
-        - Hardware
-        - Software
-        - Data
-        - Trade Secrets
-        - Personal Info
-    - Vulnerability
-      - Threat actors exploit vulnerability
-    - Risk the probablity of a loss
-    
-    Name the exploit, threat actor, and ...
+        - Authorization 
+          - Based on credentials you get privilege
+          - principal of least privilege
+        - Accounting 
+          - Give some examples of accounting...
+      - Cyber security Vocabulary - Take a word and deifne it
+        - Threats 
+        - Actors
+        - White Hat
+        - Gray Hat
+        - Black Hat
+        - Assets 
+          - Hardware
+          - Software
+          - Data
+          - Trade Secrets
+          - Personal Info
+        - Vulnerability
+        - Risk
 
 ## Objectives
-  - Define the effects of weak web security
+  - Measure current understanding of web security
+  - Study security vocabulary
+  - investigate and apply cyber security models
   - Recite famous historical hacks
     - Define the effects and significance of famous hacks
   - Identify the domains of web security
@@ -63,9 +58,9 @@ Why should we study security?
   - Research famous historical hack and write blog post
     - Post to Medium or your own blog
     - At least 5 to 10 min read
-    - Must include the type of hack: trojan horse, denial of service etc.
-    Discuss the AAA and CIA security models and how can your chosen hack 
-    be described with these models? 
+    - Must include:
+      - type of hack: trojan horse, denial of service etc.
+      - Identify and discuss the hack interms of the security models CIA/AAA 
 
 ## Resources
   Some reading about Botnets and honeypots ...
@@ -73,3 +68,12 @@ Why should we study security?
   - https://us.norton.com/internetsecurity-malware-what-is-a-botnet.html
   - https://en.wikipedia.org/wiki/Honeypot_(computing)
   - https://www.sans.edu/cyber-research/security-laboratory/article/honeypots-guide
+  
+|Time    |    | Activity       | Subject |
+|--------|----|----------------|-------|
+| 10mins | 10 | Lecture        | Intro |
+| 10mins | 20 | Pair and share | What is the most common security issue? |
+| 10mins | 30 | Slides         | CIA/AAA security models |
+| 10mins | 40 | Vocabulary     | Research security vocabulary |
+| 10mins | 50 | Discuss vocab  | |
+| 10mins | 60 | Homework       | |
