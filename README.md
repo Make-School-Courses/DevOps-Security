@@ -13,6 +13,6 @@ Class 6 - SQL Injection
 Class 7 - XSS Attacks 
 Class 8 - XSS Attacks
 Class 9 - AWS 
-Class 10 - 
-Class 11 - 
-Class 12 - 
+Class 10 - AWS
+Class 11 - Botnets
+Class 12 - Botnets 
