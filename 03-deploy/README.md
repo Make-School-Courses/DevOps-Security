@@ -1,27 +1,39 @@
 
-# Class 3: Deployment on AWS
+# Class 3: Deploy the Demo app
+
+A good way to study a subject is to look at functioning systems. 
+The domain of cyber security is large and complex. We will 
+focus on a small scale project that has some of the features 
+that are found in larger sites. 
 
 ## Activities
-  - Groups present the top 10 attacks of 2017
-    - Each group presents for 5 mins with Q & A after
 
-  - Quick chat about cloud
-  - Pair and share about AWS services (EC2, S3, lamba, Elastic Beenstalk, Database storage)
-    (each group study one of them for 15 min and present)
-  - I do, we do: Deploy static html page or document to AWS S3 (ftp, web, ssh)
-    - Make this document public available
-    - Delete this document afterwards (so you don't get billed)
+- Presentations
+  - Students present articles from class 1
+- Installing the demo app.
+  - Deploy the app to heroku
+  - Overview of the App
+    - Built with Express
+    - sqlite database 
+    - Users Login
 
-## Objectives
-  - Analyze current attacks from 2017
 
-  - Explain cloud services
-  - Deploy code and assets
-  - Apply permissions on internet resources
+
+
+## Activities
+
+  - Deploy on Heroku or other similar services (WeDeploy, Zeit, etc)
+    - Deploy an app (I do, we do) - App is ready
+    - What webpacks you need to deploy that app + DB
+    - Configure that app with addons needs + webpacks
+  - Pair and discuss how secure is an app or site deployed to Heroku (optional, at the end of lab)
 
 ## Challenge
-  - Deploy to AWS EC2 or other similar service
-    (follow EC2 docs or search for a EC2 deploy tutorial)
+  
+  - Add more functionality to site or app, more interaction with user (inputs, state, buttons, etc)
 
 ## Resources
-  - [EC2 deploy docs](https://aws.amazon.com/documentation/ec2/)
+  - [AWS Basics](https://www.inqdo.com/aws-explained-the-basics/?lang=en)
+  - [Deploy AWS](https://aws.amazon.com/getting-started/tutorials/deploy-code-vm/)
+  - [EC2 docs](https://aws.amazon.com/documentation/ec2/)
+

@@ -45,6 +45,7 @@ Why should we study security?
           - Personal Info
         - Vulnerability
         - Risk
+        - hacktivism
 
 ## Objectives
   - Measure current understanding of web security
