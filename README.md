@@ -16,20 +16,21 @@ Class 3 - Deploy demo app
   - In Class:  
     - Present Article
     - Deploy and set up the demo App
-  - Homework: 
-    - 
-Class 4 - Look at the vulnerabilities
-  - In Class: 
-  - Homework: 
+  - Homework: No homework
+Class 4 - SQL
+  - In Class: Intro to SQL
+  - Homework: Work through SQL examples 
 Class 5 - SQL Injection 
-  - In Class: Quick introduction to SQL
-  - Homework: 
-Class 6 - SQL Injection 
-  - In Class:  
-  - Homework: 
+  - In Class: 
+    - What is SQL injection?
+    - How to prevent SQL injection
+  - Homework: Protect the demo site from SQL injection
+Class 6 - Hack this!
+  - In Class: Try some hacking
+  - Homework: Hack as many of the of the examples as you can
 Class 7 - XSS Attacks 
-  - In Class:  
-  - Homework: 
+  - In Class: What XSS and how can you revent it
+  - Homework: Sanitize data on the demo site to prevent XSS
 Class 8 - XSS Attacks
   - In Class:  
   - Homework: 
