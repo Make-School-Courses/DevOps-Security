@@ -35,14 +35,20 @@ Class 8 - XSS Attacks
   - In Class:  
   - Homework: 
 Class 9 - AWS 
-  - In Class:  
+  - In Class: What is AWS and what does it offer?  
   - Homework: 
 Class 10 - AWS
-  - In Class:  
+  - In Class: Deploy to AWS
   - Homework: 
 Class 11 - Botnets
-  - In Class:  
-  - Homework: 
+  - In Class: What are botnets?
+  - Homework: Explore a botnet with python
 Class 12 - Botnets 
-  - In Class:  
+  - In Class: 
   - Homework: 
+
+B    0    0    B
+1011 0000 0000 1011
+
+F    E    E    D
+1111 1110 1110 1101
