@@ -52,3 +52,13 @@ Who has my data and what kind of data do they have?
   - https://medium.com/wibson/how-much-is-your-data-worth-at-least-240-per-year-likely-much-more-984e250c2ffa
   - https://keepersecurity.com/how-much-is-my-information-worth-to-hacker-dark-web.html
   
+  
+|Time    |    | Activity          | Subject |
+|--------|----|-------------------|-------|
+| 10mins | 10 | Intro             | Intro |
+| 10mins | 20 | Review vocabulary | Threats, Actors, Exploits |
+| 10mins | 30 | Cyber Attack 2017 | CIA/AAA security models |
+| 10mins | 40 | Share             | Share attack from 2017 |
+| 10mins | 50 | Data research     | Research what the internet knows about you |
+| 10mins | 60 | What data do sites you created collect? | Discuss |
+  

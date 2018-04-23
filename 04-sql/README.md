@@ -1,4 +1,18 @@
-# SQL injection 
+# SQL  
+
+SQL is very important and common langauge used with Databases. 
+SQL is a language used with: MySQL, SQL Server, MS Access, Oracle, 
+Sybase, Informix, Postgres, and other database systems.
+
+SQL Injection is a very common type of hacking. 
+
+## Activities 
+
+Quick introduction to SQL. 
+
+- What's in an SQL database? 
+- Making Queries
+- [Exercises](https://www.w3schools.com/sql/default.asp)
 
 
 
@@ -84,3 +98,7 @@ Python Bot net
  
 XSS JavaScript
 - https://thehackerblog.com/more-advanced-xss-denial-of-service-attacks/index.html
+
+- [AWS Basics](https://www.inqdo.com/aws-explained-the-basics/?lang=en)
+  - [Deploy AWS](https://aws.amazon.com/getting-started/tutorials/deploy-code-vm/)
+  - [EC2 docs](https://aws.amazon.com/documentation/ec2/)

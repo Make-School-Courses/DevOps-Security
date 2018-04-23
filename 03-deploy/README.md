@@ -16,9 +16,8 @@ that are found in larger sites.
     - Built with Express
     - sqlite database 
     - Users Login
-
-
-
+- Review hacks
+  - https://www.hacksplaining.com/lessons
 
 ## Activities
 
@@ -29,11 +28,11 @@ that are found in larger sites.
   - Pair and discuss how secure is an app or site deployed to Heroku (optional, at the end of lab)
 
 ## Challenge
-  
-  - Add more functionality to site or app, more interaction with user (inputs, state, buttons, etc)
+
+  - Complete all 25 lessons on [Hacksplaining](https://www.hacksplaining.com/lessons)
+    - Complete each interactive lesson
+    - Read the prevention section 
+    - Complete the quiz
 
 ## Resources
-  - [AWS Basics](https://www.inqdo.com/aws-explained-the-basics/?lang=en)
-  - [Deploy AWS](https://aws.amazon.com/getting-started/tutorials/deploy-code-vm/)
-  - [EC2 docs](https://aws.amazon.com/documentation/ec2/)
-
+  - [Hacksplaining](https://www.hacksplaining.com/lessons)
