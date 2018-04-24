@@ -5,13 +5,20 @@
 ## Classes 
 
 Class 1 - Why study security?
-  - In Class: Look at security models and vocabulary 
-  - Homework: Research historical hacks
+  - In Class: 
+    - Class intro and policies
+    - Why study web security?
+    - Look at security models and vocabulary
+  - Homework: 
+    - Research historical hacks
+    - Write blog post (500 to 1000 words) due class 3
+    - Stretch: Present your article in class (5 min talk)
 Class 2 - Why steal personal data? 
   - In Class: 
-    - What were the most important hacks of 2017? 
+    - What were the most important hacks of 2017?
     - What does the internet know about you?
-  - Homework: Continue working Article from class 1
+  - Homework: 
+    - Continue working Article from class 1 (due class 3)
 Class 3 - Deploy demo app
   - In Class:  
     - Present Article
@@ -32,7 +39,7 @@ Class 7 - XSS Attacks
   - In Class: What XSS and how can you revent it
   - Homework: Sanitize data on the demo site to prevent XSS
 Class 8 - XSS Attacks
-  - In Class:  
+  - In Class: 
   - Homework: 
 Class 9 - AWS 
   - In Class: What is AWS and what does it offer?  
@@ -47,8 +54,8 @@ Class 12 - Botnets
   - In Class: 
   - Homework: 
 
-B    0    0    B
-1011 0000 0000 1011
-
-F    E    E    D
-1111 1110 1110 1101
+Social Engineering 
+Phishing 
+Expectation: Showing you understand web security
+Job Prospects Roles day to day
+What does "we're in" mean?
