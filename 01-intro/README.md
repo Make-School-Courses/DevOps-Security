@@ -42,7 +42,7 @@ Why should we study security?
           - principal of least privilege
         - Accounting 
           - Give some examples of accounting...
-      - Cyber security Vocabulary - Take a word and deifne it
+      - Cyber security Vocabulary - Take a word and define it
         - Threats 
         - Actors
         - White Hat
