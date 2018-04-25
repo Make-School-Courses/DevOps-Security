@@ -6,10 +6,21 @@ Why should we study security?
   - Be able to protect your data and your identity
   - Be able to protect your users data and identities
   - Protect assets
+  
+## Objectives
+  - Measure current understanding of web security
+  - Study security vocabulary
+  - investigate and apply cyber security models
+  - Recite famous historical hacks
+    - Define the effects and significance of famous hacks
+  - Identify the domains of web security
 
 ## Activity
   - Class intro
   - Question: what do you understand about web security?
+    - What is web security? 
+    - What is the most common problem with web secuity?
+    - What is an exploit?
   - Pair up with another student and research web security problems:
     - What is the most common security issue?
   - Discussion/[slides](https://docs.google.com/presentation/d/1gUhRMPlXeiwloMxedW_Kr2V0pxjdm19hA5IV7p6QE-M/edit?usp=sharing) 
@@ -47,23 +58,17 @@ Why should we study security?
         - Risk
         - hacktivism
 
-## Objectives
-  - Measure current understanding of web security
-  - Study security vocabulary
-  - investigate and apply cyber security models
-  - Recite famous historical hacks
-    - Define the effects and significance of famous hacks
-  - Identify the domains of web security
-
-## Challenge
+## Challenges
   - Research famous historical hack and write blog post
     - Post to Medium or your own blog
     - At least 5 to 10 min read (500 - 1000 words)
     - Must include:
-      - type of hack: trojan horse, denial of service etc.
-      - Identify and discuss the hack interms of the security models CIA/AAA
-## Stretch Challenge 
-  - Present your article in class
+      - Type of hack: trojan horse, denial of service etc.
+      - Identify and discuss the hack in terms of the security models CIA/AAA
+        - Did the hack breech Confidentiality
+      - Wast the hack a white hat or black hat? 
+## Stretch Challenges 
+  - Present your article in class (Beginning of class 3)
     - Use your article as the basis for a 5 minute presentation.
   - Include pictures in your article
 
@@ -77,11 +82,13 @@ Why should we study security?
   - https://www.techopedia.com/definition/24130/authentication-authorization-and-accounting-aaa
 
   
-|Time    |    | Activity       | Subject |
-|--------|----|----------------|-------|
-| 10mins | 10 | Lecture        | Intro |
-| 10mins | 20 | Pair and share | What is the most common security issue? |
-| 10mins | 30 | Slides         | CIA/AAA security models |
-| 10mins | 40 | Vocabulary     | Research security vocabulary |
-| 10mins | 50 | Discuss vocab  | class discussion/presentation |
-| 10mins | 60 | Homework       | Q&A about the assignment |
+| Time    |     | Activity       | Subject                                 |
+|---------|-----|----------------|-----------------------------------------|
+| 10 mins |  10 | Lecture        | Intro                                   |
+| 10 mins |  20 | Pair and share | What do you know about web secuity?     |
+| 20 mins |  40 | Pair and share | What is the most common security issue? |
+| 10 mins |  50 | Slides         | CIA/AAA security models                 |
+| 20 mins |  70 | Vocabulary     | Research security vocabulary            |
+| 10 mins |  80 | Break          | meditate                                |
+| 10 mins |  90 | Discuss vocab  | class discussion/presentation           |
+| 10 mins | 100 | Homework       | Q&A about the assignment                |

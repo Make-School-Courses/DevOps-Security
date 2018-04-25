@@ -17,24 +17,36 @@ Class 2 - Why steal personal data?
   - In Class: 
     - What were the most important hacks of 2017?
     - What does the internet know about you?
+    - What data is collected by your apps/websites?
+    - Setup the demo app
   - Homework: 
     - Continue working Article from class 1 (due class 3)
+    - Install the demo App
 Class 3 - Deploy demo app
   - In Class:  
     - Present Article
-    - Deploy and set up the demo App
-  - Homework: No homework
+    - Learn about hacks
+    - Hack the demo site
+  - Homework: Work through the Hacksplaining tutorials
 Class 4 - SQL
-  - In Class: Intro to SQL
-  - Homework: Work through SQL examples 
-Class 5 - SQL Injection 
   - In Class: 
-    - What is SQL injection?
-    - How to prevent SQL injection
-  - Homework: Protect the demo site from SQL injection
-Class 6 - Hack this!
-  - In Class: Try some hacking
-  - Homework: Hack as many of the of the examples as you can
+    - Intro to SQL
+    - Solve some SQL problems
+    - Hack the demo site with SQLI
+  - Homework: Complete the  
+Class 5 - Hacking the Demo site XSS
+  - In Class: 
+    - Adding the clap feature 
+    - Hacking the demo site
+  - Homework: 
+    - Add the clap feature 
+    - Hack your classmate's!
+Class 6 - Prevent Hacking
+  - In Class: 
+    - Validating user input
+    - Santizing user input
+  - Homework: 
+    - Fix the vulnerabilities in your site.
 Class 7 - XSS Attacks 
   - In Class: What XSS and how can you revent it
   - Homework: Sanitize data on the demo site to prevent XSS
