@@ -65,9 +65,3 @@ Class 11 - Botnets
 Class 12 - Botnets 
   - In Class: 
   - Homework: 
-
-Social Engineering 
-Phishing 
-Expectation: Showing you understand web security
-Job Prospects Roles day to day
-What does "we're in" mean?
