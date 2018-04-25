@@ -56,7 +56,7 @@ Why should we study security?
           - Personal Info
         - Vulnerability
         - Risk
-        - hacktivism
+        - Hacktivism
 
 ## Challenges
   - Research famous historical hack and write blog post
