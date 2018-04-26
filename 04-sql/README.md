@@ -17,8 +17,7 @@ Quick introduction to SQL.
 
 ## Challenges
 
-Your job is to hack your classmates sites. Look at the list of 
-sites and try out the exploits on each. 
+
 
 ## Resources
 

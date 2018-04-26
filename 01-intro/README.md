@@ -45,9 +45,10 @@ Why should we study security?
       - Cyber security Vocabulary - Take a word and define it
         - Threats 
         - Actors
-        - White Hat
-        - Gray Hat
-        - Black Hat
+        - Hat Color
+          - White Hat
+          - Gray Hat
+          - Black Hat
         - Assets 
           - Hardware
           - Software
@@ -64,13 +65,14 @@ Why should we study security?
     - At least 5 to 10 min read (500 - 1000 words)
     - Must include:
       - Type of hack: trojan horse, denial of service etc.
-      - Identify and discuss the hack in terms of the security models CIA/AAA
+      - Identify and discuss the hack in terms of the security 
+      models CIA/AAA
         - Did the hack breech Confidentiality
       - Wast the hack a white hat or black hat? 
 ## Stretch Challenges 
-  - Present your article in class (Beginning of class 3)
-    - Use your article as the basis for a 5 minute presentation.
   - Include pictures in your article
+  - Present your article in class (Beginning of class 3)
+    - Use your article as the basis for a 3-5 minute presentation.
 
 ## Resources
   
