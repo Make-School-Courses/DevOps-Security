@@ -2,11 +2,14 @@
 # Class 2: Data
 
 ## Intro 
-Are people trying to steal your personal data? 
-Is stealing your data worth anything?
-Who has my data and what kind of data do they have? 
+
+- Are people trying to steal your personal data? 
+  - Is stealing your data worth anything?
+  - Who has my data and what kind of data do they have? 
+- Honeypots
 
 ## Objectives
+
   - Campare contrast and evaluate what data is
   - Identify data that is available about you
   - List the repercussions of data security
@@ -15,33 +18,41 @@ Who has my data and what kind of data do they have?
 ## Activities
   - Intro what is all of this data people are hacking? 
     - What is data?
-    - What is worth?
+    - What is worth? (Look it up)
     - Why would people want to steal it? 
     - What kind of data do your apps store? 
-  - Review [Vocabulary](https://scottschober.com/glossary-of-cybersecurity-terms/)
-    - Actors
-    - Threats
-    - Exploits
-    - Assets
   - Read this [article](https://www.calyptix.com/top-threats/biggest-cyber-attacks-2017-happened/)
     - Answer these questions: 
-      - What happened?
-      - Who were the Actors? 
-      - What were the Threats?
-      - What were the Exploits? 
-      - Hat color?
-      - Repercussions?
-  - Data
-    - Data is most often the target of hacking. 
+      - EQuifax
+        - Who was effected?
+        - What are Apahes Struts? 
+          - Is this similar to any tools you use? 
+      - Uber
+        - Who was effected?
+        - Where did the attack begin?
+        - What are the ethics? 
+        - Hat Color? 
+        - What about your GitHub repos? 
+      - Wanna Cry
+        - What is it? 
+        - Where did come from?
+        - How was it spread? 
+        - How was it delayed?
+      - Yahoo
+        - How many people were effected?
+  - What about your data?
+    - What data does the internet have that describes you? 
       - Have you been [pwned?](https://haveibeenpwned.com/PwnedWebsites) 
+        - Was your data stolen?
+        - Was your password pwned?
       - What data is publicly available about [you?](https://aboutthedata.com)
       - What does the browser know about [you?](http://webkay.robinlinus.com)
       - What does Facebook want to advertise to [you?](https://www.facebook.com/ads/preferences)
       - What does Google know about [you?](https://myaccount.google.com/dashboard?pli=1) 
+      - What is the data worth? (look this up on your own)
     - Look at the data publicly available about you. 
-      - Have you been pwned?
       - How accurate is the data does it describe about you? 
-  - What are the repercussion of data security? 
+  - What are the repercussion of data security?
   - What data are your apps/websites storing? 
     - How do you protect this data?
   - The [Demo App](https://github.com/Product-College-Courses/DevOps-Security-App)
@@ -58,6 +69,7 @@ Who has my data and what kind of data do they have?
   - Modify the demo app
     - Make some small changes to make it your own
     - Change the title or other feature
+    - Edit the CSS
     - **Don't** make any major changes to the code
   - Deploy the demo app to Heroku
   - Post a link to your Heroku app in the class Slack channel
@@ -78,13 +90,12 @@ Who has my data and what kind of data do they have?
 |Time     |    | Activity               | Subject                                    |
 |---------|----|------------------------|--------------------------------------------|
 | 10 mins | 10 | Intro                  | Intro                                      |
-| 10 mins | 20 | Review vocabulary      | Threats, Actors, Exploits, Assets          |
-| 10 mins | 30 | Biggest attacks 2017   | Read the Biggest cyber attacks of 2017     | 
-| 20 mins | 50 | Discussion             | Discuss attacks 2017                       |
-| 10 mins | 60 | Break                  | Walk around the block                      |
-| 10 mins | 70 | Dicuss What are assets | Research what the internet knows about you |
-| 10 mins | 80 | Research               | What does the internet know about you?     |
-| 10 mins | 90 | Discuss                | What is all this data and what is worth?   |
-| 20 mins |110 | Lab                    | Install the Demo App                       |
+| 10 mins | 20 | Biggest attacks 2017   | Read the Biggest cyber attacks of 2017     | 
+| 20 mins | 40 | Discussion             | Discuss attacks 2017                       |
+| 10 mins | 50 | Break                  | Walk around the block                      |
+| 10 mins | 60 | What about your data?  | Research what the internet knows about you |
+| 10 mins | 70 | Research               | What does the internet know about you?     |
+| 10 mins | 80 | Discuss                | What does the internet know about you?     |
+| 30 mins |110 | Lab                    | Install the Demo App                       |
 
   
