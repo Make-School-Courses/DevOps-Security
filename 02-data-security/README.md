@@ -10,10 +10,11 @@
 
 ## Objectives
 
-  - Campare contrast and evaluate what data is
+  - Compare contrast and evaluate what data is
   - Identify data that is available about you
   - List the repercussions of data security
   - Cause and effects of data breeches
+  - Describe honeypots
 
 ## Activities
   - Intro what is all of this data people are hacking? 
@@ -55,6 +56,13 @@
   - What are the repercussion of data security?
   - What data are your apps/websites storing? 
     - How do you protect this data?
+  - Honeypots 
+    - What is a honeypot? 
+      - Read this [Article](https://www.sans.edu/cyber-research/security-laboratory/article/honeypots-guide
+      and discuss with a pair. 
+      - What is a honeypot ?
+      - Why are they used?
+      - Is there any downside to honeypots?
   - The [Demo App](https://github.com/Product-College-Courses/DevOps-Security-App)
     - [Deploy the app to heroku](https://devcenter.heroku.com/articles/getting-started-with-nodejs#introduction)
     - Overview of the App
@@ -75,6 +83,7 @@
   - Post a link to your Heroku app in the class Slack channel
 
 ## Resources
+  - https://www.networkworld.com/article/3234692/lan-wan/increase-your-network-security-deploy-a-honeypot.html
   - [Vocabulary](https://scottschober.com/glossary-of-cybersecurity-terms/)
   - [Biggest Cyber Attacks 2017](https://www.calyptix.com/top-threats/biggest-cyber-attacks-2017-happened/)
   - [Have you been pwned?](https://haveibeenpwned.com/PwnedWebsites) 
