@@ -26,7 +26,7 @@ realted and compatible.
     - What problems does it solve? 
     - How does it work? 
 
-- Hackign thhe Demo Project
+- Hacking the Demo Project
   - What are common Hacks?
     - SQL Injection
     - Cross Site Scripting XSS
