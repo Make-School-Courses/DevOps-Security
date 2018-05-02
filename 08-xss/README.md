@@ -38,3 +38,5 @@
     - http://xss-scanner.com
     - http://www.domxssscanner.com
     - https://www.owasp.org/index.php/OWASP_Xenotix_XSS_Exploit_Framework
+
+https://lab.wallarm.com/the-good-the-bad-and-the-ugly-of-safari-in-client-side-attacks-56d0cb61275a

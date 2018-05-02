@@ -1,4 +1,3 @@
-
 # Class 2: Data
 
 ## Intro 
@@ -19,15 +18,16 @@
 ## Activities
   - Intro what is all of this data people are hacking? 
     - What is data?
-    - What is worth? (Look it up)
+    - What is it worth? (Look it up)
     - Why would people want to steal it? 
     - What kind of data do your apps store? 
   - Read this [article](https://www.calyptix.com/top-threats/biggest-cyber-attacks-2017-happened/)
+  ([slides](https://docs.google.com/presentation/d/1lgczXo6ic0em6z7TKPdBF6FmXPAYsAga2iLuyHiA6j8/edit?usp=sharing))
     - Answer these questions: 
       - EQuifax
         - Who was effected?
         - What are Apahes Struts? 
-          - Is this similar to any tools you use? 
+          - Is this similar to any tools you use?
       - Uber
         - Who was effected?
         - Where did the attack begin?
@@ -58,7 +58,7 @@
     - How do you protect this data?
   - Honeypots 
     - What is a honeypot? 
-      - Read this [Article](https://www.sans.edu/cyber-research/security-laboratory/article/honeypots-guide
+      - Read this [Article](https://www.sans.edu/cyber-research/security-laboratory/article/honeypots-guide)
       and discuss with a pair. 
       - What is a honeypot ?
       - Why are they used?

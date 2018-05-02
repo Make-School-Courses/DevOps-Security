@@ -6,33 +6,43 @@ You will use the demo app in this way. The app is small in scale
 and not very complex. You should all be familiar with it's features
 from other apps you have created in class previously. 
 
+The app uses express and makes use of the new JavaScript Async Await
+syntax. This is an alternative to the .then().catch() syntax. Async
+and Await work with Promises as you will see, and both systems are
+realted and compatible. 
+
 ## Activities
 
-- What are common Hacks?
-  - SQL Injection
-  - Cross Site Scripting XSS
-  - Click Jacking
+- Historical Hacks
+  - Presentations
+    - Donovan: 2008 c.worm
+    - Aakash: Anthem Data Breach
+    - Chris: Harak|r| MongBD hack
+    - Tassos: Stuxnet
+
+- JavaScript Interlude
+  - Async Await
+    - What is Async and Await? 
+    - What problems does it solve? 
+    - How does it work? 
+
+- Hackign thhe Demo Project
+  - What are common Hacks?
+    - SQL Injection
+    - Cross Site Scripting XSS
+    - Click Jacking
+  
 - https://www.hacksplaining.com/lessons
   - Do lesson 
 
 ## Challenges
 
 - Work through all of the examples at [Hacksplaining](https://www.hacksplaining.com/lessons)
-  - Complete all 25 
+  - Complete all 25 due: Wed May 9.
 
 ## Resources
 
 - [Hacksplaining](https://www.hacksplaining.com/lessons)
-- Complete all 25 lessons on [Hacksplaining](https://www.hacksplaining.com/lessons)
   - Complete each interactive lesson
   - Read the prevention section 
   - Complete the quiz
-  
-## Schedule 
-
-|Time     |    | Activity           | Subject                              |
-|---------|----|--------------------|--------------------------------------|
-| 10 mins | 10 | Intro              | Look at various hacks                |
-| 40 mins | 50 | Pair and share     | Pick a hack, hack it and share       |
-| 10 mins | 60 | Break              | Don't look at your phone for 10 mins |
-| 30 mins | 90 | I do, we do, you do| Hack the demo: XSS                   |
