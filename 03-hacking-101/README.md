@@ -21,7 +21,7 @@ realted and compatible.
     - Tassos: Stuxnet
 
 - JavaScript Interlude
-  - Async Await
+  - [Async Await](https://repl.it/classroom/invite/UYJEs4g) 
     - What is Async and Await? 
     - What problems does it solve? 
     - How does it work? 
@@ -33,10 +33,13 @@ realted and compatible.
     - Click Jacking
   
 - https://www.hacksplaining.com/lessons
-  - Do lesson 
+  - Complete each interactive lesson
+  - Read the prevention section 
+  - Complete the quiz
 
 ## Challenges
 
+- Try all of the Hacks in: HOW-TO-EXPLOIT.md
 - Work through all of the examples at [Hacksplaining](https://www.hacksplaining.com/lessons)
   - Complete all 25 due: Wed May 9.
 
