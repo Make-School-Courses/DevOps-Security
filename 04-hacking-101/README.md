@@ -86,7 +86,9 @@ change your passwords!
 
 ## Resources
 
+- https://www.owasp.org/index.php/XSS_(Cross_Site_Scripting)_Prevention_Cheat_Sheet
 - https://www.acunetix.com/websitesecurity/cross-site-scripting/
+- https://gist.github.com/kurobeats/9a613c9ab68914312cbb415134795b45
 - [Hacksplaining](https://www.hacksplaining.com/lessons)
   - Complete each interactive lesson
   - Read the prevention section 
