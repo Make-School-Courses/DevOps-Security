@@ -4,6 +4,13 @@
 At any point where input is used in code you must clean
 it up to prevent input from become an exploit. 
 
+## Objectives 
+
+- Review and identify HTML entities, URL Encoding, and CSS Escapes
+- Identify where sanitization should be applied
+- Implement JavaScript bundling for front end
+- Differentiate front end and backend JavaScript
+
 ## What is sanitization? 
 
 Cleaning up input so that can not be executed as code. 
@@ -101,4 +108,6 @@ middleware.
     - Try this middleware: 
       - https://www.npmjs.com/package/express-sanitizer
 
+## Resources 
 
+- 
