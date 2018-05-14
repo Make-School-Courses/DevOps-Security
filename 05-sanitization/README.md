@@ -23,6 +23,8 @@ all input needs to be sanitized. This process converts
 all special characters to HTML entities or removes dangerous 
 elements like `<script>`.
 
+\' OR 1 = 1;
+
 ## HTML entities 
 
 HTML entities are character sequences that represent special 
