@@ -9,7 +9,7 @@
 - Build a program structured around scope
 - Define the features of the Module Pattern
 - Create and use the Module Pattern
-- Explain the difference between var, let, and const
+- Explain the difference between `var`, `let`, and `const`
 - Compare and contrast global, local, and block scope
 
 ## Why learn the Module Pattern?
@@ -115,6 +115,7 @@ Immediately Invoked Function Expression.
 - http://www.adequatelygood.com/JavaScript-Module-Pattern-In-Depth.html
 - https://css-tricks.com/how-do-you-structure-javascript-the-module-pattern-edition/
 - http://www.decisionproblem.com/paperclips/index2.html
+- https://thenextweb.com/security/2018/05/14/electron-vulnerability-could-let-hackers-execute-their-own-code-on-your-computer/
 
 |    |     |            |                                |
 |----|-----|------------|--------------------------------|

@@ -9,6 +9,37 @@
 
 
 
+
+
+
+
+
+// IIFE
+
+(function() {
+  
+  var a = 99;
+  let b = 88;
+  
+  // some code 
+  
+})()
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 // Module
 // Module Export Pattern
 const timerThing = (function() {
