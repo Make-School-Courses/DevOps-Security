@@ -15,7 +15,7 @@ assignments:
   - Execute your social engineering hack
 - In depth talk about a hack 
   - Present to class an in depth look at a hack
-  - Choose type of hack to talk about: XSX, DDOS, etc. 
+  - Choose type of hack to talk about: XSX, DDOS, etc.
 
 ## Classes 
 

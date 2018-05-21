@@ -12,6 +12,10 @@
   - Grasp on token and information transfer protocols
   - Learn how to protect communications / data transfer
   - Learn about authentication
+  
+## HTTPS
+
+- https://tiptopsecurity.com/how-does-https-work-ssl-tls-explained/
 
 ## Challenge
   - Study famous cases of Man-In-The-Middle Attack, DNS Spoofing
