@@ -1,6 +1,21 @@
 # DevOps and Security Class
 
+## Assessment
 
+To pass this class you must complete the following 
+assignments: 
+
+- Historical Hacks 
+  - Article published to Medium or other blog. 
+- Complete all lessons at https://www.hacksplaining.com/lessons
+  - Complete the exercises and take quizzes
+- NPM Module 
+  - Your JS Library published to https://www.npmjs.com
+- Social Engineering
+  - Execute your social engineering hack
+- In depth talk about a hack 
+  - Present to class an in depth look at a hack
+  - Choose type of hack to talk about: XSX, DDOS, etc. 
 
 ## Classes 
 
@@ -63,3 +78,4 @@ Class 11 - Botnets
 Class 12 - Botnets 
   - In Class: 
   - Homework: 
+
