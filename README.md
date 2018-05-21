@@ -41,18 +41,16 @@ Class 5 - Hacking the Demo site XSS
   - Homework: 
     - Add the clap feature 
     - Hack your classmate's!
-Class 6 - Prevent Hacking
-  - In Class: 
-    - Validating user input
-    - Santizing user input
-  - Homework: 
-    - Fix the vulnerabilities in your site.
-Class 7 - XSS Attacks 
-  - In Class: What XSS and how can you revent it
-  - Homework: Sanitize data on the demo site to prevent XSS
-Class 8 - XSS Attacks
-  - In Class: 
-  - Homework: 
+Class 6 - JavaScript Module Pattern
+  - What is a Module?
+    - Node apps are built from Modules
+Class 7 - NPM Packages 
+  - What is an NPM package? 
+    - Build and publish a package to NPM
+Class - 8 - Social Engineering
+  - Review Hacking
+    - Everyone will take a topic from Hacksplaining and develop a presentation in class 
+    - Social Engineering
 Class 9 - AWS 
   - In Class: What is AWS and what does it offer?  
   - Homework: 
