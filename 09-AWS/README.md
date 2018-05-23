@@ -104,18 +104,20 @@ Sign In or Create a new account
 - Note: this Requires a credit card.
 - Note: You will get charged if you go over the free service limits!
 
-
-
 ### Create a Billing Alert
 
-Go to: Billing Dashboard
-Choose: Preferences
-Check: Receive Billing Alerts
-Check: Alert Free Tier Usage Alerts
+Follow these steps to setup a billing alert to notify you when your 
+account reaches a your spending limit or when the free tier is 
+approaching or exceeds it's usage limits. 
+
+- Go to: Billing Dashboard
+- Choose: Preferences
+- Check: Receive Billing Alerts
+- Check: Alert Free Tier Usage Alerts
 
 ## Security 
 
-Shared Responsibility Model
+AWS uses a Shared Responsibility Model
 
 - Security are performed by AWS
   - Physical Security
@@ -152,6 +154,36 @@ Defines the Authentication and roles for users
 - Roles Define Where they can access EC2, S3 buckets etc.
 - What can they do?
 
+### Identities (Users, Groups, and Roles)
+
+Allow IAM users to connect to your AWS services. 
+
+IAM Users - represents a person or service who interacts with AWS. 
+Grant a user permissions by making it a member of a group that has 
+permission policies attached to it. 
+Primary useages:
+
+- Management console
+- Make Programatic requests
+
+IAM Groups - Use groups to specify permissions for collections of users.
+Any user assigned to the group has permissions assigned to the group. 
+Use groups to: 
+
+- Easily manage permissions for users
+
+IAM Roles - have an identity with permissions, like users, unlike users 
+roles don't have credentials (password, access keys.) A user can take 
+on a role temporarily to assume permission for a specific task. 
+
+Root user - Has complete unrestricted access to all resources on your 
+AWS account including billing and the ability to change your password!
+
+While this level of access is necessary when you first create your 
+account, you don't need this level of access for day to day operations. 
+
+- https://docs.aws.amazon.com/IAM/latest/UserGuide/id.html
+
 ### IAM - Setup an admin user
 
 These steps walk through creating an admin account with user roles 
@@ -163,8 +195,6 @@ is to delete or not generate your root access keys.
 - https://docs.aws.amazon.com/general/latest/gr/aws-access-keys-best-practices.html
 
 - Create a Custom URL
-  - Choose the Ohio region (you can choose other regions but, not
-  all services are available in every region)
   - Under AWS Services, type IAM in the text box.
   - Click on 'IAM'
   - Click 'Customize' next to the sign-in URL to create a user friendly 
@@ -214,13 +244,12 @@ is to delete or not generate your root access keys.
   - Attach Additional Policies to a user
     - On the left click on 'Users'
     - Click on the user that you just created
-    - Click the X to the right of AdministratorAccess, and click 
-    on Detach
+    - Click the X to the right of AdministratorAccess, and click 'Detach'
     - Click on 'Add Permission'
     - Click on 'Attach Existing Policies Directly'
     - In the search box, type in Database
     - Select the check box next to 'DatabaseAdministrator'
-    - Click on 'Next', Review at the bottom of the screen
+    - Click on 'Next: Review' at the bottom of the screen
     - Click on 'Add Permissions'
   - Create an IAM Group
     - On the left click on 'Groups'
@@ -260,23 +289,5 @@ is to delete or not generate your root access keys.
 Delete your Root user
 
 https://docs.aws.amazon.com/IAM/latest/UserGuide/id_root-user.html
-
-## S3
-
-Object Oriented file storage. 
-
-Object vs Block storage. Files must be replaced and cannot be 
-modified. 
-
-Designed to deliver: 99.99999999999% durability.
-
-Max 5T
-
-Amazon adds more storage storage is unlimited. 
-
-Availability 99.99%
-
-Provides Versioning or files.
-
 
 
