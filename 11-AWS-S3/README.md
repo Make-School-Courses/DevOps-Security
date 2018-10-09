@@ -2,10 +2,46 @@
 
 ## Working with S3
 
-Make buckets
-Upload files
-Set permission on buckes
-Enable versioning
+S3 (Simple Storage Service) is designed for large capacity low 
+cost storage across multiple geographical regions.
+
+What can you store on S3? Anything, images, text, audio, video, 
+or other media. 
+
+S3 stores data in the form of Objects. An object consists of:
+
+- data
+- key
+- metadata
+
+S3 has three classes of storage. 
+
+- Standard Access - Suitable for performance with low latency. 
+- Standard Infrequent Access - Suitable for long lived in frequently accessed files. 
+- Glacier - Suitable for archiving data. 
+
+Besides performance the cost associated is different for each sservice, 
+Glacier is the cheapest. 
+
+S3 is organized in buckets. A bucket is the standard unit. A bucket 
+contains an Object with it's data and metadata. 
+
+S3 stores data in geographical regions. Storing data in a region 
+that is closer to your customers increases performance. The 
+services offered and costs vary with region. 
+
+S3 allows data to be replicated across regions. 
+
+### Why use S3?
+
+Use S3 when you need a scalable storage solution for digital files. 
+
+### Objectives 
+
+- Make buckets
+- Upload files
+- Set permission on buckets
+- Enable versioning
 
 ## S3 Buckets
 
